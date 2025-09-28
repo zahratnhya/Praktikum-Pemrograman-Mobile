@@ -1,7 +1,7 @@
 # Hi, I'm Zahra Tunihaya Romo👋
 
 I'm a Student of **Universitas Islam Maulana Malik Ibrahim Malang**  
-**NIM: 22572002**
+**NIM: 230605110141**
 
 Saat ini saya sedang belajar tentang pemrograman mobile:
 
